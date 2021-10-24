@@ -1,0 +1,8 @@
+{
+  "name": "i-stream-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/islomnumanov/i-stream-api.git",
+  "author": "islomnumanov <islom4ik.numanov@gmail.com>",
+  "license": "MIT"
+}
